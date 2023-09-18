@@ -1,0 +1,18 @@
+<feed>
+    <blog>
+        <author>Mohit Dodhia</author>
+        <url>https://dodhia.in/blog/index.xml</url>
+    </blog>
+    <blog>
+        <author>Kailash Nadh</author>
+        <url>https://nadh.in/index.xml</url>
+    </blog>
+    <blog>
+        <author>FasterThanLime</author>
+        <url>https://fasterthanli.me/index.xml</url>
+    </blog>
+    <blog>
+        <author>Anirudh Oppiliappan</author>
+        <url>https://icyphox.sh/blog/feed.xml</url>
+    </blog>
+</feed>
